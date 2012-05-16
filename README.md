@@ -11,6 +11,8 @@ project remote
 
 run
 
+----
+
 sbt
 
 project local
