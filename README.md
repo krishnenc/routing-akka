@@ -19,7 +19,7 @@ project local
 
 run
 
-An assertion error should the thrown in project remote
+An assertion error should be thrown in project remote
 
 N.B According to Viktor Klang a SmallestMailbox router should not be
 used with a Balancing Dispatcher
