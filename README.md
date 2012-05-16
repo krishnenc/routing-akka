@@ -6,11 +6,15 @@ A demo project to reproduce a bug in akka
 Fire two terminals
 
 sbt
+
 project remote
+
 run
 
 sbt
+
 project local
+
 run
 
 An assertion error should the thrown in project remote
