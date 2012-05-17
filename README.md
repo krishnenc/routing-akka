@@ -1,7 +1,7 @@
 routing-akka
 ============
 
-A demo project to reproduce an issue i was having on akka
+A demo project to reproduce an issue i was having on akka (assertion error in Router.scala)
 
 Fire two terminals
 
